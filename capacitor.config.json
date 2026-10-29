@@ -1,0 +1,10 @@
+{
+  "appId": "com.mycompany.gasapp",
+  "appName": "Information Center",
+  "webDir": "www",
+  "server": {
+    "url": "https://script.google.com/a/macros/spxexpress.com/s/AKfycbyMGL_E4OjOrNvQNu7K7o_CbytvQQP4sPt0yaBzXjuTlCMTL3nDoxp0LSfDPu1erWsM/exec",
+    "cleartext": true
+  }
+}
+
